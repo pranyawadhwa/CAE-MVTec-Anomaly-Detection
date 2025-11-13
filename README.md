@@ -84,18 +84,6 @@ Each category contains:
 
 ---
 
-## Visual Results
-
-Example outputs:
-
-| Input Image | Reconstruction | Anomaly Map |
-|--------------|----------------|--------------|
-| ![input](assets/input_example.jpg) | ![recon](assets/recon_example.jpg) | ![mask](assets/mask_example.jpg) |
-
-*(Each anomaly map highlights the defect region in red.)*
-
----
-
 ## Evaluation Metrics
 
 - **IoU (Intersection over Union):** Measures overlap between predicted and true anomaly regions.
@@ -108,5 +96,6 @@ Example outputs:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/anomaly-detection-autoencoder.git
-cd anomaly-detection-autoencoder
+git clone https://github.com/pranyawadhwa/SwinUnet-MVTec-Defect-Detection.git
+cd SwinUnet-MVTec-Defect-Detection
+
