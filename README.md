@@ -97,5 +97,5 @@ Each category contains:
 ### Clone Repository
 ```bash
 git clone https://github.com/pranyawadhwa/SwinUnet-MVTec-Defect-Detection.git
-cd SwinUnet-MVTec-Defect-Detection
+cd CAE-MVTec-Defect-Detection
 
